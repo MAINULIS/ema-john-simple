@@ -1,0 +1,21 @@
+.cart{
+   background-color: #FF9900;
+   padding: 25px;
+}
+
+.cart h5{
+    color: #1C2B35;
+font-family: Lato;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+ white-space: nowrap;
+}
+
+.cart p{
+    font-size: 17px;
+}
+
+.cart h6{
+    font-size: 21px;
+}
