@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './component/Header/Header'
 import Shop from './component/Shop/Shop'
 
+
 function App() {
   
 
@@ -10,8 +11,9 @@ function App() {
       <Header></Header>
       <Shop></Shop>
      
+     
     </div>
   )
 }
 
-export default App
+export default App;
