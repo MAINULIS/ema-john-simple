@@ -6,3 +6,11 @@
 5. Build > authentication > get Started > enable sign in method
 6. create sign up and login router
  */
+
+/* Context Api
+ 1. create a context provider file
+ 2. create a context and set provider(AuthContext.Provider)
+ 3. set the children props
+ 4. set context value
+ 5. set the provider
+ */
