@@ -26,10 +26,10 @@ const Header = () => {
 
                 {
                     user ? <span className='userInfo'>  {user.email} <button onClick={handleLogOut}>Sign Out</button></span> :
-                   <Link to="/login">Login</Link>
+                        <Link to="/login">Login</Link>
                 }
-
                 <Link to="/signUp">Sign Up</Link>
+                
             </div>
         </nav>
     );
