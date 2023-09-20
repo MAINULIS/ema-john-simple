@@ -22,3 +22,7 @@ nav.header a {
 nav.header a:hover {
     color: orange;
 }
+
+.userInfo{
+    margin-left: 15px;
+}
